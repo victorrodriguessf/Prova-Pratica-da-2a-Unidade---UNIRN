@@ -38,8 +38,8 @@ cursor: pointer;
 }
 
 .card button:hover,
-.card button: :focus {
-background-color: #000000;
+.card button:focus {
+background-color: #002e99;
 }
 
 .cartaz {
